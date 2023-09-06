@@ -9,3 +9,9 @@ Paris, often referred to as the **City of Love** or the **City of Light** and al
 1. Try out water sports.
 2. Explore local areas in Paris
 3. Relaxe at beach
+
+ Some delicious dishes at Paris:
+
+- Seafood.
+- Local Dishes.
+- Smoothies.
