@@ -17,3 +17,26 @@ Paris, often referred to as the **City of Love** or the **City of Light** and al
 - Smoothies.
 
 [MyStats](C:\Users\s565586\Documents\GitHub\my2-Anumula\MyStats.md)
+
+
+---
+
+# Sports Recommendations
+
+Are you looking for exciting sports to try out? Here are four sports that I recommend:
+
+| Sport Name     | Why I Recommend It                     | Weekly Time |
+| ---------------| ------------------------------------- | -----------------------|
+| Tennis         | Great for cardio  | 3-5 hours              |
+| Cricket        | Builds strength  | 4-6 hours          |
+| Swimming       | full-body workout          | 2-4 hours              |
+| Yoga           | Increases flexibility | 2-3 hours             |
+
+
+Explore these sports and find the one that suits your interests and lifestyle!
+
+
+
+
+
+
