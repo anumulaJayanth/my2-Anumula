@@ -35,6 +35,16 @@ Are you looking for exciting sports to try out? Here are four sports that I reco
 
 Explore these sports and find the one that suits your interests and lifestyle!
 
+---
+# Pithy Quotes
+
+> "The good thing about science is that it's true whether or not you believe in it." - *Neil deGrasse Tyson*
+
+> "Science knows no country because knowledge belongs to humanity, and is the torch which illuminates the world." - *Louis Pasteur*
+
+
+
+
 
 
 
