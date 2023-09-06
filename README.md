@@ -44,6 +44,23 @@ Explore these sports and find the one that suits your interests and lifestyle!
 
 
 
+---
+
+# Code Snippets and Stack Overflow
+
+> "Make whole Div clickable using jQuery?"
+[Stack Overflow Link](https://stackoverflow.com/users/2821799/user2821799) 
+
+
+```jQuery
+$(".myBox").click(function() {
+  window.location = $(this).find("a").attr("href"); 
+  return false;
+});
+```
+[CSS-Tricks](https://css-tricks.com/snippets/jquery/make-entire-div-clickable/)
+
+
 
 
 
