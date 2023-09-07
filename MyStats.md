@@ -10,4 +10,4 @@ Feel free to explore my stats and learn more about me!
 
 
 
-[MyStats](C:\Users\s565586\Documents\GitHub\my2-Anumula\MyStats.md)
+[MyStats](MyStats.md)

@@ -16,7 +16,7 @@ Paris, often referred to as the **City of Love** or the **City of Light** and al
 - Local Dishes.
 - Smoothies.
 
-[MyStats](C:\Users\s565586\Documents\GitHub\my2-Anumula\MyStats.md)
+[MyStats](MyStats.md)
 
 
 ---
